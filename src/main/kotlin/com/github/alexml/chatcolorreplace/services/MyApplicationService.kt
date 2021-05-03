@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alexml.chatcolorreplace.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alexml.chatcolorreplace.MyBundle
 
 class MyApplicationService {
 
